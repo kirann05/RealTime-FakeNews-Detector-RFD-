@@ -21,6 +21,8 @@ The system is designed with the following components:
 - Transformers
 - Streamlit
 - Pandas, NumPy
+- Bidirectional Encoder Representations(BERT)
+- Sentence BERT
 
 ## Usage
 Launch the Streamlit dashboard to analyze and monitor news content. Enter URLs or text snippets for analysis, and the system will assess and display the credibility score based on trained models.
