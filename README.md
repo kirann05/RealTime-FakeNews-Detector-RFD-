@@ -31,7 +31,7 @@ Launch the Streamlit dashboard to analyze and monitor news content. Enter URLs o
 Contributions to enhance the functionality or improve the accuracy of the detection models are welcome. Please see the issues tab to report bugs or suggest enhancements.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSEfile] for details.
 
 ## Acknowledgments
 - Data sources include PolitiFact and other fact-checking organizations used to train the detection models.
