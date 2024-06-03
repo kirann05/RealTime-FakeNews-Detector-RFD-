@@ -1,8 +1,6 @@
 # RealTime-FakeNews-Detector-RFD-
  "Real-Time Detection and Analysis of Fake News on Social  Media", This repository hosts a real-time fake news detection system utilizing Natural Language Inference (NLI) and advanced machine learning techniques, including BERT and SBERT, Multi-Classifier aimed at identifying and categorizing misinformation across social media platforms.
 
- ![Output](https://github.com/kirann05/RealTime-FakeNews-Detector-RFD-/assets/162405255/8713caa2-f193-499a-85af-fa039142635a)
-
  ## Overview
 This repository contains the implementation of a Real-Time Fake News Detection system, which integrates advanced machine learning techniques with Natural Language Inference (NLI) to detect and categorize misinformation on social media platforms. The goal is to provide users with tools to discern truthfulness in real-time, enhancing the integrity of information spread across digital spaces.
 
