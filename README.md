@@ -37,5 +37,6 @@ This project is licensed under the MIT License - see the [LICENSEfile] for detai
 - Data sources include PolitiFact and other fact-checking organizations used to train the detection models.
 - The project is inspired by ongoing research in detecting misinformation and fake news effectively.
 
+<img width="1710" alt="To-D0" src="https://github.com/user-attachments/assets/8557940f-8262-41a5-9403-a57a8abe1ad3">
 
 
