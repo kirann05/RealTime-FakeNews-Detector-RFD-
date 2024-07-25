@@ -1,4 +1,4 @@
-# RealTime-FakeNews-Detector <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+# RealTime-FakeNews-Detector 📰
  "Real-Time Detection and Analysis of Fake News on Social  Media", This repository hosts a real-time fake news detection system utilizing Natural Language Inference (NLI) and advanced machine learning techniques, including BERT and SBERT, Multi-Classifier aimed at identifying and categorizing misinformation across social media platforms.
  
  ## Overview
